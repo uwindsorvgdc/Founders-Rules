@@ -11,3 +11,4 @@
 4. All Proper Executives shall be considered a Founder for voting purposes. A Proper Executive who also holds the position of Founder shall only have one (1) total vote.
 5. A *two-thirds* majority of the founders, including at least one proper executive may remove any other proper executive from their defined position. 
 6. A *two-thirds* majority of the founders may appoint any member as a proper executive to any position where the position is otherwise vacant, or may specify a method under which that position is filled.
+7. The quorum for any meeting of the founders is one half of the founders. The quorum to vote on any motion requiring *two-thirds* majority shall be *three-quaters* of the founders.

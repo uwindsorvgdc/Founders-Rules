@@ -1,5 +1,7 @@
 # Windsor VGDC Rules
 
+The Rules Described here are disposed of and superseded by the proposed constitution at <https://github.com/UWindsor-VG-Design-Club/Constitution>. The positions of President, Vice President, and Treasurer are continued following the disposal described herein, until such time as ballots may be returned for those positions.
+
 ## Changes to these rules shall require a *two-thirds* majority of the current founders, including at least one proper Executive
 
 ### Whenever a vote requires a proper executive, the requirement is waived if there are no defined proper executives.
